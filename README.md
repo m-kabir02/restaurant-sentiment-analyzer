@@ -1,5 +1,5 @@
 # 🍽️ Restaurant Review Sentiment Analyzer
-A full-stack, RESTful web application designed to showcase the power of Natural Language Processing (NLP) and full-stack development. This app provides a platform for users to submit, manage, and analyze restaurant reviews.
+Building a full-stack, RESTful web application designed to showcase the power of Natural Language Processing (NLP) and full-stack development. This app will provide a platform for users to submit, manage, and analyze restaurant reviews.
 
 ## 🚀 Features
 - **RESTful API with CRUD**: The core of the application is a robust API that handles all data operations, including Create, Read, Update, and Delete reviews. This allows for a flexible and scalable architecture.
